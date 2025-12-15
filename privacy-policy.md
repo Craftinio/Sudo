@@ -1,4 +1,5 @@
-# Privacy Policy – Sudo- Classic Sudoku Game
+# Sudo- Classic Sudoku Game
+# Privacy Policy
 
 Last updated: December 2025
 
