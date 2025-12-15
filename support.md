@@ -1,4 +1,5 @@
-# Support – Sudo - Classic Sudoku App 
+# Sudo - Classic Sudoku App 
+# Support
 
 Thank you for using **Sudo**!  
 If you're experiencing issues or want to share suggestions, feel free to contact us.
