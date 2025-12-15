@@ -10,7 +10,7 @@ If you're experiencing issues or want to share suggestions, feel free to contact
 ### **Email Support**
 You can contact our support team at:
 
-**your-email@example.com**
+**app@craftinio.com**
 
 We typically reply within 24–48 hours.
 
